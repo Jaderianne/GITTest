@@ -13,6 +13,7 @@ namespace GITTest
         /// </summary>
         [STAThread]
         static void Main()
+            ///main
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
